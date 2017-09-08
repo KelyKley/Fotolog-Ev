@@ -107,3 +107,8 @@ li a:hover {
   padding: 5px 30px;
   margin: 3%;
 }
+
+h3{
+  border-bottom: dashed;
+  border-color: white;
+}
